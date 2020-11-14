@@ -1,2 +1,2 @@
 # Deep-Learning-Specialization
-Coursera Deep Learning Specialization course codes
+This repo contains some of my codes from the course Deep Learning Specialization by Andrew Ng. 
